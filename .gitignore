@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+
+dataset/
+croped_outputs/
+cropped_outputs/
+debug_plates/
